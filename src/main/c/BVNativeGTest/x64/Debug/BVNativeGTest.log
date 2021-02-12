@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (BVNative.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  WorkUnitTest.cpp
+G:\Users\jackd\eclipse-workspace\system\src\main\c\system\Method.h(9,60): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+G:\Users\jackd\eclipse-workspace\system\src\main\c\system\WorkUnit.h(51,53): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  BVNativeGTest.vcxproj -> G:\Users\jackd\eclipse-workspace\system\src\main\c\x64\Debug\BVNativeGTest.exe
